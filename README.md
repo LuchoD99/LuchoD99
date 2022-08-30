@@ -21,7 +21,7 @@ REACT - REDUX - JAVASCRIPT - CSS - NODE.JS - EXPRESS - POSTGRESQL
 <img align="center" width=350px src="./image/creacion.png"  />
 
 <br/>
-Estado: Actualización
+
 
 Repositorio:
 <a href="https://github.com/LuchoD99/FOOD-APP" target="blank">
