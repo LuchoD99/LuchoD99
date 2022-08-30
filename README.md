@@ -15,9 +15,9 @@
 🚀 Tecnologías:
 REACT - REDUX - JAVASCRIPT - CSS - NODE.JS - EXPRESS - POSTGRESQL
 
-<img align="center" width=350px src="./image/home.png"  />
-<img align="left" width=350px src="./image/inicio.png"  />
-<img align="center" width=350px src="./image/detalles.png"  />
+<img align="left" width=350px src="./image/home.png"  />
+<img align="center" width=350px src="./image/inicio.png"  />
+<img align="left" width=350px src="./image/detalles.png"  />
 <img align="center" width=350px src="./image/creacion.png"  />
 
 <br/>
